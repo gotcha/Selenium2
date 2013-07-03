@@ -203,7 +203,7 @@ class ActionChains(object):
 
     def move_to_element_with_offset(self, to_element, xoffset, yoffset):
         """
-        Move the mouse by an offset of the specificed element.
+        Move the mouse by an offset of the specified element.
         Offsets are relative to the top-left corner of the element.
 
         :Args:
